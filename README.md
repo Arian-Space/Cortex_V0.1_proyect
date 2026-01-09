@@ -6,6 +6,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?style=flat&logo=pytorch)](https://pytorch.org/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_USERNAME/cortex-v01/blob/main/Cortex_V0.1.ipynb](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing))
 
+If link to Colab doesn't work, enter to: https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing.
+
 A bio-inspired modular neural architecture that explicitly separates **long-term associative memory** (modern Hopfield network) from **dynamic reasoning** (Mixture of Experts). Trained in two phases with parameter freezing, it achieves emergent expert specialization (visualized via PCA) and robust semantic similarity (~0.6) even with imperfect memory retrieval (~0.01 recall@5).
 
 Developed in **12 days** as an independent self-taught researcher (23 years old) using Google Colab + T4 GPU. Inspired by a dream and biological principles (hippocampus + prefrontal cortex).

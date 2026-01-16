@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?style=flat&logo=pytorch)](https://pytorch.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_USERNAME/cortex-v01/blob/main/Cortex_V0.1.ipynb](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing)
 
 If link to Colab doesn't work, enter to: https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing.
 
@@ -20,7 +20,7 @@ Developed in **12 days** as an independent self-taught researcher (23 years old)
 
 ### Quick Links
 - 📄 **Paper** (English): [Cortex-V0.1_EN.pdf](https://github.com/Arian-Space/Cortex_V0.1_proyect/blob/main/Cortex_V0.1%20English.pdf)
-- 📄 **Paper** (Español): [Cortex-V0.1_ES.pdf]([docs/Cortex-V0.1_Paper_ES.pdf](https://github.com/Arian-Space/Cortex_V0.1_proyect/blob/main/Cortex_V0.1%20Español.pdf))
+- 📄 **Paper** (Español): [Cortex-V0.1_ES.pdf](https://github.com/Arian-Space/Cortex_V0.1_proyect/blob/main/Cortex_V0.1%20Español.pdf)
 - ▶️ **Interactive Colab Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[Bio_Inspired_Modular_Architecture_for_Efficient_Memory_and_Reasoning_in_Neural_Networks_Preliminary_Results_of_a_Compact_Prototype_"Cortex_V0_1".ipynb](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing)](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing))  
   (Run Phase 1 → Phase 2 sweeps yourself – no local GPU needed!)
 - 🔗 **arXiv** (coming soon): Preprint upload in progress

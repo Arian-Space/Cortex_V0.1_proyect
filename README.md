@@ -21,7 +21,7 @@ Developed in **12 days** as an independent self-taught researcher (23 years old)
 ### Quick Links
 - 📄 **Paper** (English): [Cortex-V0.1_EN.pdf](https://github.com/Arian-Space/Cortex_V0.1_proyect/blob/main/Cortex_V0.1%20English.pdf)
 - 📄 **Paper** (Español): [Cortex-V0.1_ES.pdf](https://github.com/Arian-Space/Cortex_V0.1_proyect/blob/main/Cortex_V0.1%20Español.pdf)
-- ▶️ **Interactive Colab Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[Bio_Inspired_Modular_Architecture_for_Efficient_Memory_and_Reasoning_in_Neural_Networks_Preliminary_Results_of_a_Compact_Prototype_"Cortex_V0_1".ipynb](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing)](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing))  
+- ▶️ **Interactive Colab Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing)  
   (Run Phase 1 → Phase 2 sweeps yourself – no local GPU needed!)
 - 🔗 **arXiv** (coming soon): Preprint upload in progress
 - 💻 **Free peek to the code**: Fully open-source (see notebooks)
@@ -43,7 +43,7 @@ The system mimics biological modularity:
 ### Installation & Quick Start (Colab)
 Everything runs in free Google Colab (T4 GPU recommended):
 
-1. Open the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[Bio_Inspired_Modular_Architecture_for_Efficient_Memory_and_Reasoning_in_Neural_Networks_Preliminary_Results_of_a_Compact_Prototype_"Cortex_V0_1".ipynb](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing)](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing))
+1. Open the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dAgAtZhGI5ShSLQk_l-gVucXc-VmU0mw?usp=sharing)
 2. Run cells sequentially:
    - Setup & Data → Phase 1 training → Phase 2 sweeps
 3. Monitor results live in your Weights & Biases dashboard (free account)
